@@ -99,13 +99,13 @@ printf "\033[34;1m                         .:| Telegram:\033[37;1mHedy2\033[34;1
 printf '\n'
 printf "\033[32;1m[\033[33;1m*\033[32;1m]\033[37;1mYoutubme:https://www.youtube.com/channel/UChMIkGetnMB4qq9K5kNwkXA/featured"
 printf '\n'
-printf "\033[32;1m[\033[33;1m*\033[32;1m]\033[37;1mGithub:https://github.com/WhoMHw"
+printf "\033[32;1m[\033[33;1m*\033[32;1m]\033[37;1mTwitter:@iAmHere96509046"
 printf '\n'
 sleep 0.07
 printf "\033[32;1m[\033[33;1m*\033[32;1m]\033[37;1mGithub:https://github.com/WongBiasa"
 printf '\n'
 sleep 0.03
-printf "\033[32;1m[\033[33;1m*\033[32;1m]\033[37;1mInstagram:https://www.instagram.com/wong_biasa0723/"
+printf "\033[32;1m[\033[33;1m*\033[32;1m]\033[37;1mInstagram:https://www.instagram.com/whats.just_hepenned/"
 printf "\n"
 sleep 0.03
 printf "\033[32;1m[\033[33;1m*\033[32;1m]\033[37;1mInstagram:https://www.instagram.com/siapa_namasaya23/"
